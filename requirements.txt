@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-image
+scipy
+jupyter
+notebook
+pytorch-fid
+denoising-diffusion-pytorch
